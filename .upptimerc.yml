@@ -6,15 +6,15 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: AnnKuoQ Blog
     url: https://annkuoq.github.io/blog/
-  - name: 公共電視
+  - name: 公 共電視
     url: https://www.pts.org.tw/
-  - name: 公視+
+  - name: 公 視+
     url: https://www.ptsplus.tv/
-  - name: 公視新聞網
+  - name: 公 視新聞網
     url: https://news.pts.org.tw/
   - name: PeoPo 公民新聞
     url: https://www.peopo.org/
-  - name: 公視之友
+  - name: 公 視之友
     url: https://friends.pts.org.tw/
 
 status-website:
