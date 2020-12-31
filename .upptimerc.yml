@@ -6,25 +6,25 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: AnnKuoQ Blog
     url: https://annkuoq.github.io/blog/
-  - name: P公共電視
+  - name: PTS TV
     url: https://www.pts.org.tw/
-  - name: P公視+
+  - name: Ptsplus
     url: https://www.ptsplus.tv/
-  - name: P公視新聞網
+  - name: PTS News
     url: https://news.pts.org.tw/
-  - name: PeoPo 公民新聞
+  - name: PeoPo News
     url: https://www.peopo.org/
-  - name: P公視之友
+  - name: PTS Friend
     url: https://friends.pts.org.tw/
   - name: KKTV
     url: https://www.kktv.me/
-  - name: G巴哈姆特動畫瘋
+  - name: Gamer
     url: https://ani.gamer.com.tw/
   - name: LINE TV
     url: https://www.linetv.tw/
   - name: CATCHPLAY+
     url: https://www.catchplay.com/tw/home
-  - name: Netflix 台灣
+  - name: Netflix TW
     url: https://www.netflix.com/tw/
   - name: myVideo
     url: https://www.myvideo.net.tw/
