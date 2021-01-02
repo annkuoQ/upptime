@@ -9,8 +9,8 @@ sites:
     icon: https://annkuoq.github.io/blog/img/favicon.ico
   - name: PTS TV
     url: https://www.pts.org.tw/
-    icon: https://news.pts.org.tw/favicon.ico
-  - name: Ptsplus
+    icon: https://www.pts.org.tw/pts.ico
+  - name: PTS PLUS
     url: https://www.ptsplus.tv/
     icon: https://www.ptsplus.tv/assets/image/pts_ico.ico
   - name: PTS News
@@ -26,14 +26,19 @@ sites:
     url: https://ani.gamer.com.tw/
   - name: LINE TV
     url: https://www.linetv.tw/
+    icon: https://img.linetv.tw/WEB/linetv_favicon.ico
   - name: CATCHPLAY+
     url: https://www.catchplay.com/tw/home
   - name: Netflix TW
     url: https://www.netflix.com/tw/
   - name: myVideo
     url: https://www.myvideo.net.tw/
+    icon: https://www.myvideo.net.tw/static/images/favicon.ico
   - name: friDay
     url: https://video.friday.tw/
+    icon: https://video.friday.tw/img/favicon.ico
+  - name: Broken Site
+    url: https://thissitedoesnotexist.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -51,36 +56,36 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 i18n:
-  activeIncidents: Active Incidents
+  activeIncidents: 目前異常事件
   allSystemsOperational: 所有服務皆運作正常
   incidentReport: "異常事件 #$NUMBER report →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
   incidentDetails: 事件細節
-  incidentFixed: Fixed
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
+  incidentFixed: 已修復
+  incidentOngoing: 尚未修復
+  incidentOpenedAt: 發生時間
+  incidentClosedAt: 修復時間
   incidentSubscribe: Subscribe to Updates
   incidentViewOnGitHub: View on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← 返回所有異常事件列表
+  incidentCommentSummary: 在 $DATE 由 $AUTHOR 發布
+  incidentBack: ← 返回所有事件列表
   pastIncidents: 過去的異常事件
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
   liveStatus: 目前狀態
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: 平均反應時間
-  sevelDayResponseTime: 7-day response time
+  overallUptime: "網站服務健康度: $UPTIME"
+  overallUptimeTitle: 網站服務健康度
+  averageResponseTime: "平均 Response Time: $TIMEms"
+  averageResponseTimeTitle: 平均 Response Time
+  sevelDayResponseTime: 過去七天 Response Time
   responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
-  degraded: Degraded
+  up: 正常
+  down: 異常
+  degraded: 危險
   ms: ms
   loading: Loading
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: 該 [開源]($REPO) 網頁由[Upptime](https://upptime.js.org) 提供 
   rateLimitExceededTitle: Rate limit exceedeed
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
