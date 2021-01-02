@@ -38,6 +38,8 @@ sites:
     icon: https://video.friday.tw/img/favicon.ico
   - name: Broken Site
     url: https://thissitedoesnotexist.com
+  - name: Broken Site2
+    url: https://thissitedoesnotexist.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
