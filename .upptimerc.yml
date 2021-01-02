@@ -56,10 +56,10 @@ status-website:
       
 i18n:
   activeIncidents: 目前異常事件
-  allSystemsOperational: "🟩 所有服務皆運作正常"
-  degradedPerformance: "🟨 部分服務緩慢"
-  completeOutage: "🟥 所有服務中斷"
-  partialOutage: "🟧 部分服務中斷"
+  allSystemsOperational: 所有服務皆運作正常
+  degradedPerformance: 部分服務緩慢
+  completeOutage: 所有服務中斷
+  partialOutage: 部分服務中斷
   incidentReport: "異常事件 #$NUMBER 報告 →"
   activeIncidentSummary: 發生在 $DATE，有 $POSTS 則回應
   incidentTitle: 異常事件 $NUMBER 內容
@@ -79,11 +79,11 @@ i18n:
   overallUptimeTitle: 服務健康度
   averageResponseTime: "平均回應時間: $TIMEms"
   averageResponseTimeTitle: 平均回應時間
-  sevelDayResponseTime: 過去七天的回應時間
+  sevelDayResponseTime: 7-day response time
   responseTimeMs: Response time (ms)
-  up: "🟩 正常"
-  degraded: "🟨 緩慢"
-  down: "🟥 中斷"
+  up: 正常
+  degraded: 緩慢
+  down: 中斷
   footer: 該 [開源]($REPO) 網頁 由 [Upptime](https://upptime.js.org) 提供
       
 workflowSchedule:
