@@ -6,16 +6,20 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: AnnKuoQ Blog
     url: https://annkuoq.github.io/blog/
+    icon: https://annkuoq.github.io/blog/img/favicon.ico
   - name: PTS TV
     url: https://www.pts.org.tw/
+    icon: https://news.pts.org.tw/favicon.ico
   - name: Ptsplus
     url: https://www.ptsplus.tv/
+    icon: https://www.ptsplus.tv/assets/image/pts_ico.ico
   - name: PTS News
     url: https://news.pts.org.tw/
   - name: PeoPo News
     url: https://www.peopo.org/
   - name: PTS Friend
     url: https://friends.pts.org.tw/
+    icon: https://friends.pts.org.tw/images/pts-membership-logo.png
   - name: KKTV
     url: https://www.kktv.me/
   - name: Gamer
