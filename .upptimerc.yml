@@ -56,12 +56,13 @@ status-website:
       
 i18n:
   activeIncidents: 目前異常事件
-  allSystemsOperational: 所有服務皆運作正常
-  CompleteOutage: 所有服務皆異常
-  PartialOutage: 部分服務異常
+  allSystemsOperational: "🟩 所有服務皆運作正常"
+  degradedPerformance: "🟨 部分服務緩慢"
+  completeOutage: "🟥 所有服務中斷"
+  partialOutage: "🟧 部分服務中斷"
   incidentReport: "異常事件 #$NUMBER 報告 →"
   activeIncidentSummary: 發生在 $DATE，有 $POSTS 則回應
-  incidentTitle: Incident $NUMBER Details
+  incidentTitle: 異常事件 $NUMBER 內容
   incidentDetails: 事件細節
   incidentFixed: 已修復
   incidentOngoing: 尚未修復
@@ -72,37 +73,18 @@ i18n:
   incidentCommentSummary: $AUTHOR 在 $DATE 回覆
   incidentBack: ← 返回所有事件列表
   pastIncidents: 過去的異常事件
-  pastIncidentsResolved: 在 $MINUTES 內解決，有 $POSTS 則回應
+  pastIncidentsResolved: 在 $MINUTES 分鐘內解決，有 $POSTS 則回應
   liveStatus: 目前狀態
   overallUptime: "服務健康度: $UPTIME"
   overallUptimeTitle: 服務健康度
-  averageResponseTime: "平均 Response Time: $TIMEms"
-  averageResponseTimeTitle: 平均 Response Time
-  sevelDayResponseTime: 過去七天 Response Time
+  averageResponseTime: "平均回應時間: $TIMEms"
+  averageResponseTimeTitle: 平均回應時間
+  sevelDayResponseTime: 過去七天的回應時間
   responseTimeMs: Response time (ms)
-  up: 正常
-  down: 異常
-  degraded: 危險
-  ms: ms
-  loading: Loading
-  navGitHub: GitHub
-  footer: 該 [開源]($REPO) 網頁由 [Upptime](https://upptime.js.org) 提供 
-  rateLimitExceededTitle: Rate limit exceedeed
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
+  up: "🟩 正常"
+  degraded: "🟨 緩慢"
+  down: "🟥 中斷"
+  footer: 該 [開源]($REPO) 網頁 由 [Upptime](https://upptime.js.org) 提供
       
 workflowSchedule:
   graphs: "0 0 * * *"
