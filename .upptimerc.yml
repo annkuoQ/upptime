@@ -42,8 +42,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** 是一個在 GitHub 上的開源網站監控服務"
-  introMessage: 以下是目前 PTS 各網站的服務狀況，數據來自 [GitHub Repository](https://github.com/ptstaiwan/upptime/)，我們使用了 GitHub [Issues](https://github.com/ptstaiwan/upptime/issues) 回報異常事件、GitHub [Actions](https://github.com/ptstaiwan/upptime/actions) 自動化監控、GitHub [Pages](https://newmedia.pts.org.tw/upptime) 產生服務狀態頁面
+  introTitle: "**Upptime** 是一個由 GitHub 提供服務的開源網站監控服務"
+  introMessage: 以下是目前 PTS 各網站的服務狀況，數據來自 [GitHub Repository](https://github.com/ptstaiwan/upptime/)，我們使用 [Issues](https://github.com/ptstaiwan/upptime/issues) 回報異常事件、[Actions](https://github.com/ptstaiwan/upptime/actions) 自動化監控、[Pages](https://newmedia.pts.org.tw/upptime) 產生服務狀態頁面。
   navbar:
     - title: Status
       href: /upptime
@@ -52,11 +52,11 @@ status-website:
       
 i18n:
   activeIncidents: Active Incidents
-  allSystemsOperational: All systems are operational
-  incidentReport: "Incident #$NUMBER report →"
+  allSystemsOperational: 所有服務皆運作正常
+  incidentReport: "異常事件 #$NUMBER report →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
+  incidentDetails: 事件細節
   incidentFixed: Fixed
   incidentOngoing: Ongoing
   incidentOpenedAt: Opened at
@@ -64,14 +64,14 @@ i18n:
   incidentSubscribe: Subscribe to Updates
   incidentViewOnGitHub: View on GitHub
   incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
+  incidentBack: ← 返回所有異常事件列表
+  pastIncidents: 過去的異常事件
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  liveStatus: Live Status
+  liveStatus: 目前狀態
   overallUptime: "Overall uptime: $UPTIME"
   overallUptimeTitle: Overall uptime
   averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
+  averageResponseTimeTitle: 平均反應時間
   sevelDayResponseTime: 7-day response time
   responseTimeMs: Response time (ms)
   up: Up
@@ -80,7 +80,7 @@ i18n:
   ms: ms
   loading: Loading
   navGitHub: GitHub
-  footer: This page is [open source 開源]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Rate limit exceedeed
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
