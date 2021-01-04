@@ -6,6 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: PTS
     url: https://www.pts.org.tw/
+    icon: https://www.pts.org.tw/pts.ico
   - name: PTS Taigi
     url: https://taigi.pts.org.tw/
   - name: PTS PLUS
