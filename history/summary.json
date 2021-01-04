@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2212,
     "timeDay": 4423,
     "timeWeek": 2212,
     "timeMonth": 2212,
     "timeYear": 2212,
-    "dailyMinutesDown": {
-      "2021-01-04": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PeoPo News",
