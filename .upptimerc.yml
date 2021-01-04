@@ -4,11 +4,10 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: AnnKuoQ Blog
-    url: https://annkuoq.github.io/blog/
-    icon: https://annkuoq.github.io/blog/img/favicon.ico
-  - name: PTS TV
+  - name: PTS
     url: https://www.pts.org.tw/
+  - name: PTS Taigi
+    url: https://taigi.pts.org.tw/
   - name: PTS PLUS
     url: https://www.ptsplus.tv/
     icon: https://www.ptsplus.tv/assets/image/pts_ico.ico
@@ -19,23 +18,29 @@ sites:
   - name: PTS Friend
     url: https://friends.pts.org.tw/
     icon: https://friends.pts.org.tw/images/pts-membership-logo.png
-  - name: KKTV
-    url: https://www.kktv.me/
-  - name: Gamer
-    url: https://ani.gamer.com.tw/
+    
+  - name: AnnKuoQ Blog
+    url: https://annkuoq.github.io/blog/
+    icon: https://annkuoq.github.io/blog/img/favicon.ico
+    
   - name: LINE TV
     url: https://www.linetv.tw/
-    icon: https://img.linetv.tw/WEB/linetv_favicon.ico
-  - name: CATCHPLAY+
-    url: https://www.catchplay.com/tw/home
+    icon: https://img.linetv.tw/WEB/linetv_favicon.ico    
+  - name: Gamer
+    url: https://ani.gamer.com.tw/
   - name: Netflix TW
-    url: https://www.netflix.com/tw/
-  - name: myVideo
-    url: https://www.myvideo.net.tw/
-    icon: https://www.myvideo.net.tw/static/images/favicon.ico
+    url: https://www.netflix.com/tw/    
+  - name: KKTV
+    url: https://www.kktv.me/
   - name: friDay
     url: https://video.friday.tw/
     icon: https://video.friday.tw/img/favicon.ico
+  - name: CATCHPLAY+
+    url: https://www.catchplay.com/tw/home
+  - name: myVideo
+    url: https://www.myvideo.net.tw/
+    icon: https://www.myvideo.net.tw/static/images/favicon.ico
+
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Broken Site2
@@ -47,9 +52,10 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** 是由 GitHub 支援的開源網站監控服務"
-  introMessage: 以下是目前 PTS 各網站的服務狀況，數據來自 [GitHub Repository](https://github.com/ptstaiwan/upptime/)，我們使用 [Issues](https://github.com/ptstaiwan/upptime/issues) 回報異常事件、[Actions](https://github.com/ptstaiwan/upptime/actions) 自動化監控、[Pages](https://newmedia.pts.org.tw/upptime) 產生服務狀態頁面
+  name: AnnkuoQ Upptime  
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  
   navbar:
     - title: Status
       href: /upptime
