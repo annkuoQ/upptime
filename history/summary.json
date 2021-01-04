@@ -58,19 +58,19 @@
     "url": "https://news.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
-    "status": "down",
-    "uptime": "94.04%",
-    "uptimeDay": "72.61%",
-    "uptimeWeek": "94.04%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "94.04%",
-    "time": 3090,
-    "timeDay": 4599,
-    "timeWeek": 3090,
-    "timeMonth": 3090,
-    "timeYear": 3090,
+    "status": "up",
+    "uptime": "93.50%",
+    "uptimeDay": "70.00%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "93.50%",
+    "time": 3023,
+    "timeDay": 4369,
+    "timeWeek": 3023,
+    "timeMonth": 3023,
+    "timeYear": 3023,
     "dailyMinutesDown": {
-      "2021-01-04": 394
+      "2021-01-04": 432
     }
   },
   {
@@ -259,11 +259,11 @@
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "87.42%",
+    "uptime": "87.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "87.42%",
-    "uptimeYear": "87.42%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "87.55%",
+    "uptimeYear": "87.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 1138,
+      "2021-01-04": 1176,
       "2021-01-03": 1440,
       "2021-01-02": 530
     }
