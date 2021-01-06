@@ -58,8 +58,8 @@ status-website:
       
 i18n:
   activeIncidents: Active Incidents
-  allSystemsOperational: 所有服務皆運作正常
-  up: 正常
+  allSystemsOperational: "🟩 所有服務皆運作正常"
+  up: "🟩 正常"
   incidentReport: "Incident #$NUMBER report →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
