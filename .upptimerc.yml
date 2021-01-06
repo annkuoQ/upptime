@@ -58,10 +58,8 @@ status-website:
       
 i18n:
   activeIncidents: Active Incidents
-  allSystemsOperational: All systems are operational
-  degradedPerformance: Degraded performance
-  completeOutage: Complete outage
-  partialOutage: Partial outage
+  allSystemsOperational: 所有服務皆運作正常
+  up: 正常
   incidentReport: "Incident #$NUMBER report →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
@@ -83,9 +81,6 @@ i18n:
   averageResponseTimeTitle: Average response
   sevelDayResponseTime: 7-day response time
   responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
-  degraded: Degraded
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
       
 workflowSchedule:
