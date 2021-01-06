@@ -12,8 +12,6 @@ sites:
   - name: PTS PLUS
     url: https://www.ptsplus.tv/
     icon: https://www.ptsplus.tv/assets/image/pts_ico.ico
-  - name: PTS News
-    url: https://news.pts.org.tw/
   - name: PeoPo News
     url: https://www.peopo.org/
   - name: PTS Friend
@@ -41,11 +39,6 @@ sites:
   - name: myVideo
     url: https://www.myvideo.net.tw/
     icon: https://www.myvideo.net.tw/static/images/favicon.ico
-
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Broken Site2
-    url: https://thissitedoesnotexist.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
