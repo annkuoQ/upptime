@@ -12,6 +12,8 @@ sites:
   - name: PTS PLUS
     url: https://www.ptsplus.tv/
     icon: https://www.ptsplus.tv/assets/image/pts_ico.ico
+  - name: PTS News
+    url: https://news.pts.org.tw/
   - name: PeoPo News
     url: https://www.peopo.org/
   - name: PTS Friend
