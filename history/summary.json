@@ -60,7 +60,7 @@
     "slug": "pts-news",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "53.58%",
+    "uptimeDay": "44.65%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -70,7 +70,7 @@
     "timeMonth": 3144,
     "timeYear": 3144,
     "dailyMinutesDown": {
-      "2021-01-08": 0,
+      "2021-01-08": 1,
       "2021-01-06": 136,
       "2021-01-05": 340,
       "2021-01-04": 432
