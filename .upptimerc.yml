@@ -9,11 +9,23 @@ sites:
     icon: https://www.pts.org.tw/pts.ico
   - name: PTS Taigi
     url: https://taigi.pts.org.tw/
+  - name: PTS 3
+    url: http://pts_3.pts.org.tw/
+  - name: PTS ENG
+    url: http://eng.pts.org.tw/
+  - name: TV schedule
+    url: http://web.pts.org.tw/php/programX/main.php
+  - name: PTS News
+    url: https://news.pts.org.tw/
+  - name: PeoPo News
+    url: https://www.peopo.org/
   - name: PTS PLUS
     url: https://www.ptsplus.tv/
     icon: https://www.ptsplus.tv/assets/image/pts_ico.ico
-  - name: PeoPo News
-    url: https://www.peopo.org/
+  - name: PTS 4K
+    url: https://4k.pts.org.tw/
+  - name: PTS Shop
+    url: https://shop.pts.org.tw/
   - name: PTS Friend
     url: https://friends.pts.org.tw/
     icon: https://friends.pts.org.tw/images/pts-membership-logo.png
