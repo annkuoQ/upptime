@@ -13,7 +13,7 @@
     "time": 2277,
     "timeDay": 1888,
     "timeWeek": 2480,
-    "timeMonth": 2277,
+    "timeMonth": 2278,
     "timeYear": 2277,
     "dailyMinutesDown": {
       "2021-01-27": 230,
@@ -29,15 +29,15 @@
     "icon": "https://favicons.githubusercontent.com/taigi.pts.org.tw",
     "slug": "pts-taigi",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 1625,
     "timeDay": 974,
     "timeWeek": 1524,
-    "timeMonth": 1625,
+    "timeMonth": 1630,
     "timeYear": 1625,
     "dailyMinutesDown": {
       "2021-01-27": 230
@@ -102,16 +102,16 @@
     "url": "https://news.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
-    "status": "up",
-    "uptime": "55.18%",
-    "uptimeDay": "75.68%",
-    "uptimeWeek": "73.70%",
-    "uptimeMonth": "55.18%",
-    "uptimeYear": "55.18%",
+    "status": "down",
+    "uptime": "55.79%",
+    "uptimeDay": "75.64%",
+    "uptimeWeek": "74.06%",
+    "uptimeMonth": "55.79%",
+    "uptimeYear": "55.79%",
     "time": 4422,
     "timeDay": 4645,
     "timeWeek": 5640,
-    "timeMonth": 5056,
+    "timeMonth": 5063,
     "timeYear": 4422,
     "dailyMinutesDown": {
       "2021-02-04": 94,
@@ -139,7 +139,7 @@
     "time": 2017,
     "timeDay": 1255,
     "timeWeek": 1866,
-    "timeMonth": 2018,
+    "timeMonth": 2032,
     "timeYear": 2017,
     "dailyMinutesDown": {
       "2021-01-27": 229
@@ -159,7 +159,7 @@
     "time": 503,
     "timeDay": 324,
     "timeWeek": 446,
-    "timeMonth": 493,
+    "timeMonth": 495,
     "timeYear": 503,
     "dailyMinutesDown": {}
   },
@@ -205,15 +205,15 @@
     "icon": "https://friends.pts.org.tw/images/pts-membership-logo.png",
     "slug": "pts-friend",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 1313,
     "timeDay": 873,
     "timeWeek": 1153,
-    "timeMonth": 1338,
+    "timeMonth": 1352,
     "timeYear": 1313,
     "dailyMinutesDown": {
       "2021-01-27": 229
@@ -233,7 +233,7 @@
     "time": 119,
     "timeDay": 146,
     "timeWeek": 127,
-    "timeMonth": 116,
+    "timeMonth": 114,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -251,7 +251,7 @@
     "time": 264,
     "timeDay": 418,
     "timeWeek": 380,
-    "timeMonth": 289,
+    "timeMonth": 286,
     "timeYear": 264,
     "dailyMinutesDown": {}
   },
@@ -269,7 +269,7 @@
     "time": 961,
     "timeDay": 907,
     "timeWeek": 1086,
-    "timeMonth": 941,
+    "timeMonth": 950,
     "timeYear": 961,
     "dailyMinutesDown": {}
   },
@@ -287,7 +287,7 @@
     "time": 1142,
     "timeDay": 723,
     "timeWeek": 1065,
-    "timeMonth": 1119,
+    "timeMonth": 1128,
     "timeYear": 1142,
     "dailyMinutesDown": {}
   },
@@ -305,7 +305,7 @@
     "time": 1818,
     "timeDay": 1525,
     "timeWeek": 2322,
-    "timeMonth": 1958,
+    "timeMonth": 1993,
     "timeYear": 1818,
     "dailyMinutesDown": {}
   },
@@ -323,7 +323,7 @@
     "time": 1855,
     "timeDay": 1315,
     "timeWeek": 1723,
-    "timeMonth": 1855,
+    "timeMonth": 1871,
     "timeYear": 1855,
     "dailyMinutesDown": {}
   },
@@ -341,7 +341,7 @@
     "time": 1969,
     "timeDay": 1569,
     "timeWeek": 1916,
-    "timeMonth": 1967,
+    "timeMonth": 1975,
     "timeYear": 1969,
     "dailyMinutesDown": {}
   },
@@ -359,7 +359,7 @@
     "time": 2085,
     "timeDay": 1329,
     "timeWeek": 2193,
-    "timeMonth": 1803,
+    "timeMonth": 1775,
     "timeYear": 2085,
     "dailyMinutesDown": {
       "2021-01-11": 43
