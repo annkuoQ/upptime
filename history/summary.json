@@ -13,7 +13,7 @@
     "time": 2274,
     "timeDay": 2131,
     "timeWeek": 2507,
-    "timeMonth": 2282,
+    "timeMonth": 2286,
     "timeYear": 2274,
     "dailyMinutesDown": {
       "2021-01-27": 230,
@@ -29,15 +29,15 @@
     "icon": "https://favicons.githubusercontent.com/taigi.pts.org.tw",
     "slug": "pts-taigi",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 1636,
     "timeDay": 2104,
     "timeWeek": 1633,
-    "timeMonth": 1645,
+    "timeMonth": 1628,
     "timeYear": 1636,
     "dailyMinutesDown": {
       "2021-01-27": 230
@@ -48,18 +48,20 @@
     "url": "http://pts_3.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/pts_3.pts.org.tw",
     "slug": "pts-3",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 889,
     "timeDay": 1468,
     "timeWeek": 889,
     "timeMonth": 889,
     "timeYear": 889,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 1
+    }
   },
   {
     "name": "PTS ENG",
@@ -85,19 +87,17 @@
     "icon": "https://favicons.githubusercontent.com/web.pts.org.tw",
     "slug": "tv-schedule",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1368,
     "timeDay": 2229,
     "timeWeek": 1368,
     "timeMonth": 1368,
     "timeYear": 1368,
-    "dailyMinutesDown": {
-      "2021-02-05": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PTS News",
@@ -105,15 +105,15 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "60.94%",
+    "uptime": "61.60%",
     "uptimeDay": "76.15%",
-    "uptimeWeek": "74.50%",
-    "uptimeMonth": "69.92%",
-    "uptimeYear": "60.94%",
+    "uptimeWeek": "74.93%",
+    "uptimeMonth": "70.73%",
+    "uptimeYear": "61.60%",
     "time": 5063,
     "timeDay": 9020,
     "timeWeek": 6387,
-    "timeMonth": 6127,
+    "timeMonth": 6210,
     "timeYear": 5063,
     "dailyMinutesDown": {
       "2021-02-05": 115,
@@ -142,7 +142,7 @@
     "time": 2015,
     "timeDay": 1935,
     "timeWeek": 1864,
-    "timeMonth": 2035,
+    "timeMonth": 2037,
     "timeYear": 2015,
     "dailyMinutesDown": {
       "2021-01-27": 229
@@ -162,7 +162,7 @@
     "time": 502,
     "timeDay": 435,
     "timeWeek": 442,
-    "timeMonth": 493,
+    "timeMonth": 494,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },
@@ -216,7 +216,7 @@
     "time": 1310,
     "timeDay": 1086,
     "timeWeek": 1153,
-    "timeMonth": 1349,
+    "timeMonth": 1347,
     "timeYear": 1310,
     "dailyMinutesDown": {
       "2021-01-27": 229
@@ -236,7 +236,7 @@
     "time": 119,
     "timeDay": 115,
     "timeWeek": 123,
-    "timeMonth": 114,
+    "timeMonth": 116,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -254,7 +254,7 @@
     "time": 264,
     "timeDay": 278,
     "timeWeek": 370,
-    "timeMonth": 272,
+    "timeMonth": 276,
     "timeYear": 264,
     "dailyMinutesDown": {}
   },
@@ -272,7 +272,7 @@
     "time": 965,
     "timeDay": 1235,
     "timeWeek": 1111,
-    "timeMonth": 962,
+    "timeMonth": 970,
     "timeYear": 965,
     "dailyMinutesDown": {}
   },
@@ -290,7 +290,7 @@
     "time": 1140,
     "timeDay": 1057,
     "timeWeek": 1077,
-    "timeMonth": 1123,
+    "timeMonth": 1124,
     "timeYear": 1140,
     "dailyMinutesDown": {}
   },
@@ -308,7 +308,7 @@
     "time": 1811,
     "timeDay": 1392,
     "timeWeek": 2316,
-    "timeMonth": 1999,
+    "timeMonth": 2017,
     "timeYear": 1811,
     "dailyMinutesDown": {}
   },
@@ -326,7 +326,7 @@
     "time": 1853,
     "timeDay": 1723,
     "timeWeek": 1741,
-    "timeMonth": 1862,
+    "timeMonth": 1858,
     "timeYear": 1853,
     "dailyMinutesDown": {}
   },
@@ -344,7 +344,7 @@
     "time": 1969,
     "timeDay": 1941,
     "timeWeek": 1923,
-    "timeMonth": 1973,
+    "timeMonth": 1971,
     "timeYear": 1969,
     "dailyMinutesDown": {}
   },
@@ -362,7 +362,7 @@
     "time": 2094,
     "timeDay": 2644,
     "timeWeek": 2200,
-    "timeMonth": 1783,
+    "timeMonth": 1789,
     "timeYear": 2094,
     "dailyMinutesDown": {
       "2021-01-11": 43
