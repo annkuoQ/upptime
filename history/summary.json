@@ -13,7 +13,7 @@
     "time": 2270,
     "timeDay": 2164,
     "timeWeek": 2149,
-    "timeMonth": 2249,
+    "timeMonth": 2246,
     "timeYear": 2270,
     "dailyMinutesDown": {
       "2021-01-27": 230,
@@ -37,7 +37,7 @@
     "time": 1620,
     "timeDay": 1409,
     "timeWeek": 1473,
-    "timeMonth": 1622,
+    "timeMonth": 1624,
     "timeYear": 1620,
     "dailyMinutesDown": {
       "2021-01-27": 230
@@ -105,11 +105,11 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "69.25%",
+    "uptime": "69.33%",
     "uptimeDay": "82.38%",
     "uptimeWeek": "78.25%",
-    "uptimeMonth": "76.92%",
-    "uptimeYear": "69.25%",
+    "uptimeMonth": "76.98%",
+    "uptimeYear": "69.33%",
     "time": 5243,
     "timeDay": 4400,
     "timeWeek": 6067,
@@ -145,7 +145,7 @@
     "time": 2008,
     "timeDay": 2040,
     "timeWeek": 1797,
-    "timeMonth": 2016,
+    "timeMonth": 2019,
     "timeYear": 2008,
     "dailyMinutesDown": {
       "2021-01-27": 229
@@ -219,7 +219,7 @@
     "time": 1304,
     "timeDay": 1265,
     "timeWeek": 1138,
-    "timeMonth": 1339,
+    "timeMonth": 1317,
     "timeYear": 1304,
     "dailyMinutesDown": {
       "2021-01-27": 229
@@ -239,7 +239,7 @@
     "time": 117,
     "timeDay": 96,
     "timeWeek": 103,
-    "timeMonth": 113,
+    "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {}
   },
@@ -257,7 +257,7 @@
     "time": 265,
     "timeDay": 178,
     "timeWeek": 300,
-    "timeMonth": 293,
+    "timeMonth": 299,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
@@ -275,7 +275,7 @@
     "time": 967,
     "timeDay": 1134,
     "timeWeek": 1024,
-    "timeMonth": 970,
+    "timeMonth": 962,
     "timeYear": 967,
     "dailyMinutesDown": {}
   },
@@ -293,7 +293,7 @@
     "time": 1138,
     "timeDay": 1149,
     "timeWeek": 1013,
-    "timeMonth": 1124,
+    "timeMonth": 1122,
     "timeYear": 1138,
     "dailyMinutesDown": {}
   },
@@ -311,7 +311,7 @@
     "time": 1840,
     "timeDay": 2784,
     "timeWeek": 2132,
-    "timeMonth": 2146,
+    "timeMonth": 2144,
     "timeYear": 1840,
     "dailyMinutesDown": {}
   },
@@ -329,7 +329,7 @@
     "time": 1853,
     "timeDay": 1722,
     "timeWeek": 1739,
-    "timeMonth": 1856,
+    "timeMonth": 1855,
     "timeYear": 1853,
     "dailyMinutesDown": {}
   },
@@ -347,7 +347,7 @@
     "time": 1958,
     "timeDay": 1553,
     "timeWeek": 1808,
-    "timeMonth": 1945,
+    "timeMonth": 1949,
     "timeYear": 1958,
     "dailyMinutesDown": {}
   },
@@ -365,7 +365,7 @@
     "time": 2115,
     "timeDay": 2383,
     "timeWeek": 2162,
-    "timeMonth": 1912,
+    "timeMonth": 1919,
     "timeYear": 2115,
     "dailyMinutesDown": {
       "2021-01-11": 43
