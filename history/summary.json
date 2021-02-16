@@ -88,10 +88,10 @@
     "url": "http://web.pts.org.tw/php/programX/main.php",
     "icon": "https://favicons.githubusercontent.com/web.pts.org.tw",
     "slug": "tv-schedule",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1026,
@@ -99,7 +99,9 @@
     "timeWeek": 731,
     "timeMonth": 1026,
     "timeYear": 1026,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 1
+    }
   },
   {
     "name": "PTS News",
@@ -107,13 +109,13 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "85.49%",
-    "uptimeDay": "74.03%",
+    "uptime": "85.56%",
+    "uptimeDay": "81.17%",
     "uptimeWeek": "73.74%",
-    "uptimeMonth": "85.49%",
-    "uptimeYear": "85.49%",
+    "uptimeMonth": "85.56%",
+    "uptimeYear": "85.56%",
     "time": 5170,
-    "timeDay": 3951,
+    "timeDay": 3802,
     "timeWeek": 5072,
     "timeMonth": 5533,
     "timeYear": 5170,
