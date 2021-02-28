@@ -111,14 +111,14 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "91.80%",
-    "uptimeDay": "81.98%",
-    "uptimeWeek": "75.84%",
-    "uptimeMonth": "91.80%",
-    "uptimeYear": "91.80%",
+    "uptime": "91.81%",
+    "uptimeDay": "83.15%",
+    "uptimeWeek": "76.26%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "91.81%",
     "time": 5033,
     "timeDay": 4356,
-    "timeWeek": 4883,
+    "timeWeek": 4845,
     "timeMonth": 5225,
     "timeYear": 5033,
     "dailyMinutesDown": {
@@ -177,10 +177,10 @@
     "url": "https://4k.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/4k.pts.org.tw",
     "slug": "pts-4-k",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 2000,
@@ -189,7 +189,7 @@
     "timeMonth": 2000,
     "timeYear": 2000,
     "dailyMinutesDown": {
-      "2021-02-28": 22,
+      "2021-02-28": 23,
       "2021-02-11": 16
     }
   },
@@ -198,9 +198,9 @@
     "url": "https://shop.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/shop.pts.org.tw",
     "slug": "pts-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -210,6 +210,7 @@
     "timeMonth": 1802,
     "timeYear": 1802,
     "dailyMinutesDown": {
+      "2021-02-28": 0,
       "2021-02-24": 20,
       "2021-02-11": 16
     }
