@@ -141,18 +141,19 @@
     "url": "https://www.peopo.org/",
     "icon": "https://favicons.githubusercontent.com/www.peopo.org",
     "slug": "peo-po-news",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.76%",
     "time": 1987,
     "timeDay": 1888,
     "timeWeek": 1996,
     "timeMonth": 1940,
     "timeYear": 1987,
     "dailyMinutesDown": {
+      "2021-03-09": 0,
       "2021-01-27": 229
     }
   },
