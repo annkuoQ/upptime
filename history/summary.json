@@ -112,14 +112,14 @@
     "url": "https://news.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
-    "status": "up",
-    "uptime": "93.39%",
-    "uptimeDay": "78.35%",
+    "status": "down",
+    "uptime": "93.42%",
+    "uptimeDay": "79.09%",
     "uptimeWeek": "73.36%",
-    "uptimeMonth": "91.98%",
-    "uptimeYear": "93.39%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "93.42%",
     "time": 5038,
-    "timeDay": 5021,
+    "timeDay": 5322,
     "timeWeek": 4732,
     "timeMonth": 4955,
     "timeYear": 5038,
@@ -133,7 +133,7 @@
       "2021-03-03": 418,
       "2021-03-02": 438,
       "2021-03-01": 372,
-      "2021-02-28": 180
+      "2021-02-28": 164
     }
   },
   {
