@@ -13,7 +13,7 @@
     "time": 2218,
     "timeDay": 1662,
     "timeWeek": 1987,
-    "timeMonth": 2168,
+    "timeMonth": 2174,
     "timeYear": 2218,
     "dailyMinutesDown": {
       "2021-03-09": 18,
@@ -44,7 +44,7 @@
     "time": 1504,
     "timeDay": 966,
     "timeWeek": 1338,
-    "timeMonth": 1410,
+    "timeMonth": 1414,
     "timeYear": 1504,
     "dailyMinutesDown": {
       "2021-03-16": 15,
@@ -65,7 +65,7 @@
     "time": 969,
     "timeDay": 547,
     "timeWeek": 668,
-    "timeMonth": 896,
+    "timeMonth": 903,
     "timeYear": 969,
     "dailyMinutesDown": {
       "2021-02-05": 62
@@ -85,7 +85,7 @@
     "time": 384,
     "timeDay": 282,
     "timeWeek": 360,
-    "timeMonth": 408,
+    "timeMonth": 383,
     "timeYear": 384,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 936,
     "timeDay": 1406,
     "timeWeek": 855,
-    "timeMonth": 852,
+    "timeMonth": 855,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2021-02-16": 25
@@ -114,19 +114,19 @@
     "url": "https://news.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
-    "status": "down",
-    "uptime": "75.41%",
+    "status": "up",
+    "uptime": "75.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.90%",
-    "uptimeYear": "75.41%",
-    "time": 4994,
-    "timeDay": 4042,
-    "timeWeek": 4763,
-    "timeMonth": 4899,
-    "timeYear": 4994,
+    "uptimeMonth": "52.77%",
+    "uptimeYear": "75.36%",
+    "time": 4999,
+    "timeDay": 4044,
+    "timeWeek": 4862,
+    "timeMonth": 4900,
+    "timeYear": 4999,
     "dailyMinutesDown": {
-      "2021-03-30": 1340,
+      "2021-03-30": 1398,
       "2021-03-29": 1440,
       "2021-03-28": 1440,
       "2021-03-27": 1440,
@@ -165,7 +165,7 @@
     "time": 1992,
     "timeDay": 1246,
     "timeWeek": 1830,
-    "timeMonth": 1990,
+    "timeMonth": 1994,
     "timeYear": 1992,
     "dailyMinutesDown": {
       "2021-03-09": 60,
@@ -186,7 +186,7 @@
     "time": 482,
     "timeDay": 303,
     "timeWeek": 381,
-    "timeMonth": 468,
+    "timeMonth": 470,
     "timeYear": 482,
     "dailyMinutesDown": {}
   },
@@ -204,7 +204,7 @@
     "time": 1451,
     "timeDay": 836,
     "timeWeek": 491,
-    "timeMonth": 928,
+    "timeMonth": 906,
     "timeYear": 1451,
     "dailyMinutesDown": {
       "2021-03-01": 63,
