@@ -12,8 +12,8 @@
     "uptimeYear": "99.28%",
     "time": 2209,
     "timeDay": 1622,
-    "timeWeek": 1984,
-    "timeMonth": 2128,
+    "timeWeek": 1994,
+    "timeMonth": 2112,
     "timeYear": 2209,
     "dailyMinutesDown": {
       "2021-03-09": 18,
@@ -44,7 +44,7 @@
     "time": 1496,
     "timeDay": 1005,
     "timeWeek": 1313,
-    "timeMonth": 1408,
+    "timeMonth": 1407,
     "timeYear": 1496,
     "dailyMinutesDown": {
       "2021-03-16": 15,
@@ -65,7 +65,7 @@
     "time": 952,
     "timeDay": 558,
     "timeWeek": 711,
-    "timeMonth": 878,
+    "timeMonth": 866,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2021-02-05": 62
@@ -85,7 +85,7 @@
     "time": 379,
     "timeDay": 359,
     "timeWeek": 309,
-    "timeMonth": 377,
+    "timeMonth": 375,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 923,
     "timeDay": 705,
     "timeWeek": 862,
-    "timeMonth": 843,
+    "timeMonth": 840,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2021-02-16": 25
@@ -114,19 +114,19 @@
     "url": "https://news.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
-    "status": "up",
-    "uptime": "69.59%",
+    "status": "down",
+    "uptime": "69.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.87%",
-    "uptimeYear": "69.59%",
+    "uptimeMonth": "36.33%",
+    "uptimeYear": "69.40%",
     "time": 5019,
-    "timeDay": 5220,
+    "timeDay": 6079,
     "timeWeek": 5205,
-    "timeMonth": 4942,
+    "timeMonth": 4954,
     "timeYear": 5019,
     "dailyMinutesDown": {
-      "2021-04-04": 1160,
+      "2021-04-04": 1399,
       "2021-04-03": 1440,
       "2021-04-02": 1440,
       "2021-04-01": 1440,
@@ -170,7 +170,7 @@
     "time": 2016,
     "timeDay": 1375,
     "timeWeek": 2278,
-    "timeMonth": 2094,
+    "timeMonth": 2097,
     "timeYear": 2016,
     "dailyMinutesDown": {
       "2021-03-09": 60,
@@ -191,7 +191,7 @@
     "time": 479,
     "timeDay": 303,
     "timeWeek": 408,
-    "timeMonth": 461,
+    "timeMonth": 463,
     "timeYear": 479,
     "dailyMinutesDown": {}
   },
@@ -209,7 +209,7 @@
     "time": 1366,
     "timeDay": 225,
     "timeWeek": 429,
-    "timeMonth": 581,
+    "timeMonth": 534,
     "timeYear": 1366,
     "dailyMinutesDown": {
       "2021-03-01": 63,
@@ -231,7 +231,7 @@
     "time": 1856,
     "timeDay": 1716,
     "timeWeek": 1761,
-    "timeMonth": 1894,
+    "timeMonth": 1895,
     "timeYear": 1856,
     "dailyMinutesDown": {
       "2021-03-14": 78,
@@ -255,7 +255,7 @@
     "time": 1238,
     "timeDay": 942,
     "timeWeek": 1048,
-    "timeMonth": 1150,
+    "timeMonth": 1149,
     "timeYear": 1238,
     "dailyMinutesDown": {
       "2021-02-16": 26,
@@ -276,7 +276,7 @@
     "time": 119,
     "timeDay": 67,
     "timeWeek": 108,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "time": 302,
     "timeDay": 370,
     "timeWeek": 373,
-    "timeMonth": 358,
+    "timeMonth": 367,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
@@ -312,7 +312,7 @@
     "time": 1020,
     "timeDay": 829,
     "timeWeek": 1056,
-    "timeMonth": 1033,
+    "timeMonth": 1026,
     "timeYear": 1020,
     "dailyMinutesDown": {}
   },
@@ -330,7 +330,7 @@
     "time": 1097,
     "timeDay": 798,
     "timeWeek": 952,
-    "timeMonth": 1064,
+    "timeMonth": 1059,
     "timeYear": 1097,
     "dailyMinutesDown": {}
   },
@@ -348,7 +348,7 @@
     "time": 1992,
     "timeDay": 1331,
     "timeWeek": 1972,
-    "timeMonth": 2178,
+    "timeMonth": 2140,
     "timeYear": 1992,
     "dailyMinutesDown": {}
   },
@@ -366,7 +366,7 @@
     "time": 1821,
     "timeDay": 1377,
     "timeWeek": 1700,
-    "timeMonth": 1842,
+    "timeMonth": 1834,
     "timeYear": 1821,
     "dailyMinutesDown": {}
   },
@@ -384,7 +384,7 @@
     "time": 1873,
     "timeDay": 1427,
     "timeWeek": 1659,
-    "timeMonth": 1771,
+    "timeMonth": 1764,
     "timeYear": 1873,
     "dailyMinutesDown": {}
   },
