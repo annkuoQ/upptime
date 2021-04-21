@@ -13,7 +13,7 @@
     "time": 2183,
     "timeDay": 2176,
     "timeWeek": 2235,
-    "timeMonth": 1994,
+    "timeMonth": 1997,
     "timeYear": 2183,
     "dailyMinutesDown": {
       "2021-03-09": 18,
@@ -44,7 +44,7 @@
     "time": 1459,
     "timeDay": 1343,
     "timeWeek": 1318,
-    "timeMonth": 1284,
+    "timeMonth": 1285,
     "timeYear": 1459,
     "dailyMinutesDown": {
       "2021-03-16": 15,
@@ -65,7 +65,7 @@
     "time": 916,
     "timeDay": 779,
     "timeWeek": 839,
-    "timeMonth": 769,
+    "timeMonth": 745,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2021-02-05": 62
@@ -85,7 +85,7 @@
     "time": 384,
     "timeDay": 259,
     "timeWeek": 401,
-    "timeMonth": 376,
+    "timeMonth": 379,
     "timeYear": 384,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 923,
     "timeDay": 786,
     "timeWeek": 763,
-    "timeMonth": 883,
+    "timeMonth": 884,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2021-02-16": 25
@@ -114,19 +114,19 @@
     "url": "https://news.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
-    "status": "down",
-    "uptime": "55.32%",
+    "status": "up",
+    "uptime": "55.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.32%",
-    "time": 5032,
-    "timeDay": 7546,
-    "timeWeek": 4885,
-    "timeMonth": 5055,
-    "timeYear": 5032,
+    "uptimeYear": "55.28%",
+    "time": 5028,
+    "timeDay": 6789,
+    "timeWeek": 4892,
+    "timeMonth": 5058,
+    "timeYear": 5028,
     "dailyMinutesDown": {
-      "2021-04-21": 127,
+      "2021-04-21": 204,
       "2021-04-20": 1440,
       "2021-04-19": 1440,
       "2021-04-18": 1440,
@@ -187,7 +187,7 @@
     "time": 2018,
     "timeDay": 1818,
     "timeWeek": 1627,
-    "timeMonth": 2034,
+    "timeMonth": 2055,
     "timeYear": 2018,
     "dailyMinutesDown": {
       "2021-03-09": 60,
@@ -208,7 +208,7 @@
     "time": 466,
     "timeDay": 401,
     "timeWeek": 356,
-    "timeMonth": 385,
+    "timeMonth": 387,
     "timeYear": 466,
     "dailyMinutesDown": {}
   },
@@ -226,7 +226,7 @@
     "time": 1158,
     "timeDay": 288,
     "timeWeek": 380,
-    "timeMonth": 329,
+    "timeMonth": 333,
     "timeYear": 1158,
     "dailyMinutesDown": {
       "2021-03-01": 63,
@@ -248,7 +248,7 @@
     "time": 1849,
     "timeDay": 2068,
     "timeWeek": 1966,
-    "timeMonth": 1812,
+    "timeMonth": 1827,
     "timeYear": 1849,
     "dailyMinutesDown": {
       "2021-03-14": 78,
@@ -272,7 +272,7 @@
     "time": 1214,
     "timeDay": 1200,
     "timeWeek": 1112,
-    "timeMonth": 1047,
+    "timeMonth": 1053,
     "timeYear": 1214,
     "dailyMinutesDown": {
       "2021-02-16": 26,
@@ -293,7 +293,7 @@
     "time": 116,
     "timeDay": 62,
     "timeWeek": 110,
-    "timeMonth": 102,
+    "timeMonth": 103,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -311,7 +311,7 @@
     "time": 321,
     "timeDay": 383,
     "timeWeek": 380,
-    "timeMonth": 454,
+    "timeMonth": 435,
     "timeYear": 321,
     "dailyMinutesDown": {}
   },
@@ -347,7 +347,7 @@
     "time": 1099,
     "timeDay": 1328,
     "timeWeek": 1127,
-    "timeMonth": 1028,
+    "timeMonth": 1037,
     "timeYear": 1099,
     "dailyMinutesDown": {}
   },
@@ -365,7 +365,7 @@
     "time": 1979,
     "timeDay": 1483,
     "timeWeek": 1954,
-    "timeMonth": 1895,
+    "timeMonth": 1915,
     "timeYear": 1979,
     "dailyMinutesDown": {}
   },
@@ -383,7 +383,7 @@
     "time": 1795,
     "timeDay": 1929,
     "timeWeek": 1686,
-    "timeMonth": 1689,
+    "timeMonth": 1698,
     "timeYear": 1795,
     "dailyMinutesDown": {}
   },
@@ -401,7 +401,7 @@
     "time": 1843,
     "timeDay": 1647,
     "timeWeek": 1661,
-    "timeMonth": 1641,
+    "timeMonth": 1650,
     "timeYear": 1843,
     "dailyMinutesDown": {}
   },
@@ -419,7 +419,7 @@
     "time": 1806,
     "timeDay": 1602,
     "timeWeek": 1412,
-    "timeMonth": 1492,
+    "timeMonth": 1471,
     "timeYear": 1806,
     "dailyMinutesDown": {
       "2021-02-25": 20,
