@@ -13,7 +13,7 @@
     "time": 2146,
     "timeDay": 2177,
     "timeWeek": 2034,
-    "timeMonth": 1988,
+    "timeMonth": 1999,
     "timeYear": 2146,
     "dailyMinutesDown": {
       "2021-03-09": 18,
@@ -44,7 +44,7 @@
     "time": 1432,
     "timeDay": 1399,
     "timeWeek": 1392,
-    "timeMonth": 1288,
+    "timeMonth": 1296,
     "timeYear": 1432,
     "dailyMinutesDown": {
       "2021-03-16": 15,
@@ -65,7 +65,7 @@
     "time": 910,
     "timeDay": 824,
     "timeWeek": 803,
-    "timeMonth": 860,
+    "timeMonth": 864,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2021-02-05": 62
@@ -85,7 +85,7 @@
     "time": 379,
     "timeDay": 242,
     "timeWeek": 420,
-    "timeMonth": 386,
+    "timeMonth": 388,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 895,
     "timeDay": 779,
     "timeWeek": 802,
-    "timeMonth": 762,
+    "timeMonth": 769,
     "timeYear": 895,
     "dailyMinutesDown": {
       "2021-02-16": 25
@@ -115,18 +115,19 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "43.80%",
+    "uptime": "43.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.80%",
+    "uptimeYear": "43.79%",
     "time": 5022,
     "timeDay": 3950,
     "timeWeek": 4874,
     "timeMonth": 5077,
     "timeYear": 5022,
     "dailyMinutesDown": {
-      "2021-05-11": 1399,
+      "2021-05-12": 7,
+      "2021-05-11": 1440,
       "2021-05-10": 1440,
       "2021-05-09": 1440,
       "2021-05-08": 1440,
@@ -207,7 +208,7 @@
     "time": 1960,
     "timeDay": 2175,
     "timeWeek": 1722,
-    "timeMonth": 1788,
+    "timeMonth": 1797,
     "timeYear": 1960,
     "dailyMinutesDown": {
       "2021-03-09": 60,
@@ -228,7 +229,7 @@
     "time": 452,
     "timeDay": 409,
     "timeWeek": 420,
-    "timeMonth": 366,
+    "timeMonth": 368,
     "timeYear": 452,
     "dailyMinutesDown": {}
   },
@@ -246,7 +247,7 @@
     "time": 985,
     "timeDay": 318,
     "timeWeek": 287,
-    "timeMonth": 290,
+    "timeMonth": 292,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2021-03-01": 63,
@@ -268,7 +269,7 @@
     "time": 1813,
     "timeDay": 1814,
     "timeWeek": 1770,
-    "timeMonth": 1734,
+    "timeMonth": 1735,
     "timeYear": 1813,
     "dailyMinutesDown": {
       "2021-03-14": 78,
@@ -292,7 +293,7 @@
     "time": 1192,
     "timeDay": 1197,
     "timeWeek": 1109,
-    "timeMonth": 1055,
+    "timeMonth": 1061,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2021-02-16": 26,
@@ -313,7 +314,7 @@
     "time": 115,
     "timeDay": 122,
     "timeWeek": 121,
-    "timeMonth": 107,
+    "timeMonth": 108,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -331,7 +332,7 @@
     "time": 349,
     "timeDay": 224,
     "timeWeek": 409,
-    "timeMonth": 527,
+    "timeMonth": 513,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -349,7 +350,7 @@
     "time": 1003,
     "timeDay": 1151,
     "timeWeek": 1097,
-    "timeMonth": 953,
+    "timeMonth": 954,
     "timeYear": 1003,
     "dailyMinutesDown": {}
   },
@@ -367,7 +368,7 @@
     "time": 1077,
     "timeDay": 1191,
     "timeWeek": 1047,
-    "timeMonth": 1026,
+    "timeMonth": 1037,
     "timeYear": 1077,
     "dailyMinutesDown": {}
   },
@@ -385,7 +386,7 @@
     "time": 1943,
     "timeDay": 2315,
     "timeWeek": 1859,
-    "timeMonth": 1765,
+    "timeMonth": 1772,
     "timeYear": 1943,
     "dailyMinutesDown": {}
   },
@@ -403,7 +404,7 @@
     "time": 1764,
     "timeDay": 1978,
     "timeWeek": 1625,
-    "timeMonth": 1581,
+    "timeMonth": 1583,
     "timeYear": 1764,
     "dailyMinutesDown": {}
   },
@@ -421,7 +422,7 @@
     "time": 1806,
     "timeDay": 1947,
     "timeWeek": 1683,
-    "timeMonth": 1587,
+    "timeMonth": 1589,
     "timeYear": 1806,
     "dailyMinutesDown": {}
   },
@@ -439,7 +440,7 @@
     "time": 1749,
     "timeDay": 1627,
     "timeWeek": 1479,
-    "timeMonth": 1404,
+    "timeMonth": 1399,
     "timeYear": 1749,
     "dailyMinutesDown": {
       "2021-02-25": 20,
